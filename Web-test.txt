@@ -1,0 +1,28 @@
+WEB DEVELOPMENT TEST 1
+AKULLU DEBORAH
+REG NO 2022/DCSE/005/SS
+1.	Define the following terms according to HTML and CSS and give examples
+(a). Elements
+refer to the part of an html document that has opening tags, closing tags and content inbetween. for example <p>this is a paragraph</p>
+
+(b). Attributes
+ are words used in opening tags to control the behaviour of an  html element. for example: href used in <a> to define a URL
+
+
+(c). Selectors
+these select html elements with a specific class Attribute. for example:CSS universal selector
+
+
+
+(d). Semantic elements
+these are elements that clearly have a meaning for example;<header>, <footer>
+
+
+
+(e). Web accessibility
+means making sure that there are no barriers while working with websites so that people with disabilities can access websites without difficulty.
+for example; heading levels, link texts
+
+
+(f). Web server
+is a computer software that accepts requests through HTTPs. for example; chrome
